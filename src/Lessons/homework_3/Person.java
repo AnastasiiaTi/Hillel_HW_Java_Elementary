@@ -1,4 +1,4 @@
-package Lessons.homework3;
+package Lessons.homework_3;
 
 public class Person {
 

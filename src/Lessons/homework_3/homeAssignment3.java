@@ -1,6 +1,5 @@
-package Lessons.homework3;
+package Lessons.homework_3;
 
-import javax.sound.midi.Soundbank;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
@@ -11,6 +10,7 @@ public class homeAssignment3 {
 
         Person person1 = new Person("Titova Anastasiia Maksymovna");
         System.out.println(person1);
+        System.out.println();
 
         int[] arrayUnsorted = new int[5];
         fillAnArray(arrayUnsorted);
@@ -108,4 +108,5 @@ public class homeAssignment3 {
         return arrayOfString;
     }
 }
+
 
